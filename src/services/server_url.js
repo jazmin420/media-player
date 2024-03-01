@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://mp-server-9ouh.onrender.com"
